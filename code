@@ -1,0 +1,75 @@
+<html>
+<Title>Chaz Westbrooks Resume</Title>
+<style>
+body {font-family:Palatino}
+h2 {font-family:Palatino; color: #000099}
+.name {float:left}
+.date {float:right}
+</style>
+
+<body>
+<h1 id=Top>
+<center>Chaz Westbrooks </center>
+</h1>
+<p><center><b>2251 Sherman Ave NW Washington, DC | 678-570-2345 | chazwestbrooks@gmail.com</b></center></p>
+
+  <h2 id=Ed>Education</h2>
+<ul>
+<li>Howard University Class of 2019</li>
+<li>B.B.A in Information System</li>
+</ul>
+
+  <h2 id=Ob>Objectives</h2>
+<ul>
+<li>Gradute from University with Honors</li>
+<li>Begin post-graduate work experince with Eli Lilly in Indianapolis</li>
+<li>Quickly rise through corporate ranks</li>
+</ul>
+
+  <h2 id=Ex>Experience</h2>
+<div>
+<span class="name"> <b>Eli Lilly,</b> Indianapolis, IN </span>
+<span class="date"> May 2018-July 2018</span>
+</div><br/>
+<ul>
+<li>Evaluated the current operational procedures of the Global Diabetes Conversation Program- a global patient support program found in 96 countries.</li>
+<li>Created and managed the “Diabetes Conversation Program Survey”- inquired about the current status, effectiveness, best practices, concerns, and obstacles facing the Diabetes Conversation Program in a given affiliate.</li>
+<li>Conducted 1:1 interviews with key stakeholders, across 20 countries and multiple time zones.</li>
+<li>Presented recommendations centered around cost-saving, organizational restructuring, and new procedures for the “Diabetes Conversation Program” to senior leadership in Lilly Diabetes.</li> 
+</ul>
+
+<div>
+<span class="name"> <b>Amazon,</b> Duluth, GA </span>
+<span class="date"> June 2017-August 2017</span>
+</div><br/>
+<ul>
+<li>Prepared customer orders in the Amazon Fresh divison</li>
+<li>Tasked with maintaining shelves and storing items across different temperature variants.</li>
+</ul>
+
+<div>
+<span class="name"> <b>Dun and Bradstreet,</b> Atlanta, GA </span>
+<span class="date"> June 2016-August 2016</span>
+</div><br/>
+<ul>
+<li>Researched potential and existing clients’ policies on human trafficking and human rights.</li> 
+<li>Prepared information packets for Solution Advisor to facilitate conversations with prospective
+and existing clients. Provided guidance to advisors based on the research.</li>
+<li>Created customer-facing presentations based on human trafficking risk scores.</li>
+<li>Partnered with technology support to develop and automate a process in SFDC that creates a
+queue to create the customer facing presentations.</li>
+</ul>
+
+<h2 id=Sk>Skills</h2>
+<ul>
+<li>Javascript</li>
+<li>Micrsoft Office</li>
+<li>SQL</li>
+<li>Leadership</li>
+<li>Presenting</li>
+<li>Analytical Thinking</li>
+</ul>
+<center> <a href=#Top>Top</a> - <a href=#Ed>Education</a> - <a href=#Ob>Objectives</a> - <a href=#Ex>Experience</a> - <a href=#Sk>Skills</a> </center><br/>
+<center>Chaz Westbrooks</center>
+</body>
+</html>
